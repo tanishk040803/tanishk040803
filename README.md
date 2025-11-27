@@ -1,8 +1,9 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=500&color=CC1F9D&width=600&height=70&lines=Welcome+to+my+code+world+%F0%9F%8C%8D;Hello%2C+Krishna+Singh+here+%F0%9F%98%81;Dream+%E2%80%A2+Code+%E2%80%A2+Deliver++%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%E2%9D%A4%EF%B8%8F" alt="Typing SVG" alt="Typing SVG"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=500&color=CC1F9D&width=600&height=70&lines=Welcome+to+my+code+world+%F0%9F%8C%8D;Hello%2C+Tanishk+Katiyar+here+%F0%9F%98%81;Dream+%E2%80%A2+Code+%E2%80%A2+Deliver++%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%E2%9D%A4%EF%B8%8F" alt="Typing SVG"/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=singhkrishna01&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ikatiyar332&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">💻 Motivated Computer Science student skilled in C++, Python, Data Structures & Algorithms, and Full Stack Development 🧩 Expanding expertise in Generative AI, LLMs, RAG systems, and API integration 🤖 Seeking opportunities to contribute to impactful software and AI-driven projects 🚀
