@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=500&color=CC1F9D&width=600&height=70&lines=Welcome+to+my+code+world+%F0%9F%8C%8D;Hello%2C+Tanishk+Katiyar+here+%F0%9F%98%81;Dream+%E2%80%A2+Code+%E2%80%A2+Deliver++%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%E2%9D%A4%EF%B8%8F" alt="Typing SVG"/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ikatiyar332&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Profile%20Views-0-blueviolet?style=for-the-badge&logo=github&logoColor=white&colorA=8A2BE2&colorB=DA70D6" alt="Profile views" />
 </p>
 
 <p align="center">💻 Motivated Computer Science student skilled in C++, Python, Data Structures & Algorithms, and Full Stack Development 🧩 Expanding expertise in Generative AI, LLMs, RAG systems, and API integration 🤖 Seeking opportunities to contribute to impactful software and AI-driven projects 🚀
@@ -36,19 +36,19 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmVmbXJ3YmczMnpneTFmZ3Z2MzJhb3hwbWt3bWM1eGVuaDM1bHBvbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="1000">
 
 <div align="center">
 
 <h1>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="40" height="40" />
+  <img src="https://cdn-icons-png.flaticon.com/512/2583/2583343.png" alt="Trophy" width="40" height="40" />
   GitHub Trophies
 </h1>
 
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ishan040803&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=tanishk040803&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
 <div align="center">
