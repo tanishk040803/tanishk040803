@@ -1,70 +1,118 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30&height=220&section=header&text=&fontSize=0" />
-  
-  <h1 align="center" style="margin-top: -180px; color: white; position: relative; z-index: 999;">
-    Hi, I'm <span style="color: #4facfe;">Tanishk Katiyar</span>
-  </h1>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Architecting+GenAI+Systems+🤖;Building+Scalable+Backends+☁️;150%2B+DSA+Problems+Solved+🧩;OpenAI+%7C+Gemini+%7C+RAG+Pipelines+⚡" />
-</div>
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Tanishk%20Katiyar&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<br/>
+<!-- INTRO SECTION -->
+<table align="center">
+<tr>
+<td>
 
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <h3>👨‍💻 <code>user.getProfile()</code></h3>
-        <br>
-        • <b>Name:</b> Tanishk Katiyar<br>
-        • <b>Role:</b> Full Stack AI Architect<br>
-        • <b>Focus:</b> RAG Systems, LLM Integration, Scalable Backends<br>
-        • <b>Skills:</b> Python, C++, React, Node.js, Gemini API, OpenAI API<br>
-        • <b>Status:</b> Actively coding and automating ⚡
-        <br><br>
-        <a href="https://www.linkedin.com/in/tanishk-katiyar-97ab83308/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-        <a href="mailto:ikatiyar332@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-      </td>
-      <td valign="top" width="50%">
-        <h3>🎧 Vibe Check</h3>
-        <a href="https://open.spotify.com/user/uce5zr8bsqf7o4dy94cnfqvzr">
-          <img src="https://spotify-github-profile.vercel.app/api/view?uid=2&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=4facfe&bar_color_cover=true" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+### 👋 Hi, I'm **Tanishk Katiyar**
+**Full Stack Developer | GenAI & LLMs | RAG Systems | DSA Enthusiast**
+
+- 💻 Building **AI-powered Full Stack applications**  
+- 🤖 Skilled in **OpenAI API, Gemini API, embeddings, vector search**  
+- 🧠 Strong in **C++, Python, Algorithms, DSA**  
+- 📚 Solved **150+ DSA problems**  
+- 🎯 Passion: Build smart, automated, AI-driven apps  
+- ☁ Learning: **Scalable backend + AI pipelines**  
+
+</td>
+<td>
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="260">
+</td>
+</tr>
+</table>
 
 ---
 
-<div align="center">
-  <h3>🚀 The Tech Stack</h3>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nextjs,nodejs,express,mongodb,pytorch,tensorflow,docker,git,linux,vscode,postman,figma&perline=8" />
-  <br><br>
-  <img src="https://img.shields.io/badge/GenAI-OpenAI_API-000?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/LLMs-Gemini_API-4E5EE4?style=for-the-badge&logo=google" />
-  <img src="https://img.shields.io/badge/Vector_DB-Pinecone-000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Search-LangChain-1C3C3C?style=for-the-badge" />
-</div>
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=700&height=80&color=00E6FE&lines=Full+Stack+Developer+👨‍💻;LLM+%7C+RAG+%7C+Generative+AI+🤖;Python+%7C+C%2B%2B+%7C+JavaScript+💻;OpenAI+%7C+Gemini+API+🌐;150%2B+DSA+Problems+Solved+🔥;Building+AI+Automations+Everyday+⚡" />
+</p>
 
 ---
 
-<div align="center">
-  <h3>📊 GitHub Analytics</h3>
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=tanishk040803&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishk040803&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" />
-  </div>
-  <br>
-  <img src="https://streak-stats.demolab.com?user=tanishk040803&theme=tokyonight&hide_border=true&background=0d1117" width="80%" />
-</div>
+# 🚀 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,tailwind,html,css,nodejs,mongodb,git,linux,vscode,github" />
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
-  <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30&height=100&section=footer" width="100%"/>
-  <p style="margin-top: -60px; position: relative;">Profile views</p>
-  <img src="https://komarev.com/ghpvc/?username=tanishk040803&label=VIEWS&style=for-the-badge&color=blueviolet" />
-</div>
+# 🤖 AI & GenAI Tools  
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-OpenAI%20%7C%20Gemini%20%7C%20Llama-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-%E2%9A%A1-9cf?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector%20Search-Embeddings-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API%20Integration-Automation-brightgreen?style=for-the-badge" />
+</p>
+
+---
+
+# 🏆 GitHub Achievements 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tanishk040803&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+# 📊 GitHub Stats  
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=tanishk040803&show_icons=true&theme=tokyonight" />
+  <img width="45%" src="https://streak-stats.demolab.com?user=tanishk040803&theme=tokyonight" />
+</p>
+
+---
+
+# 🔥 3D Contribution Graph  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 💠 GitHub Contribution Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishk040803&theme=react-dark" />
+</p>
+
+---
+
+# 🎧 Spotify Now Playing (Optional)  
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212" />
+</p>
+
+---
+
+# 🌟 Featured Projects  
+
+<p align="center">
+[![AI News Aggregator](https://github-readme-stats.vercel.app/api/pin/?username=tanishk040803&repo=AI-News-Aggregator&theme=tokyonight)](https://github.com/tanishk040803/AI-News-Aggregator)
+[![SaaS Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=tanishk040803&repo=SaaS-Landing-Page&theme=tokyonight)](https://github.com/tanishk040803/SaaS-Landing-Page)
+[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=tanishk040803&repo=tanishkPortfolio&theme=tokyonight)](https://github.com/tanishk040803/tanishkPortfolio)
+</p>
+
+---
+
+# ⚡ Fun Fact  
+**I don’t just write code — I create intelligent, automated systems. 🤖🔥**
+
+---
+
+# 🌍 Connect With Me  
+<p align="center">
+  <a href="https://tanishk040803.github.io/tanishkPortfolio/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=web&logoColor=white" /></a>
+  <a href="https://github.com/tanishk040803"><img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://twitter.com/YOUR_TWITTER/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" /></a>
+</p>
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=150&section=footer" />
+</p>
