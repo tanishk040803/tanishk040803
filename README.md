@@ -1,106 +1,56 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=336699&center=true&vCenter=true&width=600&lines=Tanishk+Katiyar;GenAI+%26+Full+Stack+Dev;Building+The+Future+of+AI" alt="Typing SVG" />
-</div>
+# Hi there 👋, I'm Tanishk Katiyar
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:302b63&height=2&section=header" width="100%"/>
-</div>
-
-<div align="center">
-
-<h3>👋 intelligent_systems.init( )</h3>
-
-<p align="center">
-  <b>Tanishk Katiyar</b> &nbsp;|&nbsp; Full Stack Developer & AI Engineer
-</p>
-
-<p align="center">
-  <em>"I don’t just write code — I architect intelligent, automated systems."</em>
-</p>
-
-<p align="left">
-  &nbsp;&nbsp;&nbsp;&nbsp; 🔭 <b>Currently working on:</b> Scalable RAG Architectures & Agentic Workflows<br>
-  &nbsp;&nbsp;&nbsp;&nbsp; 🌱 <b>Learning:</b> Advanced Vector Search & Large Scale System Design<br>
-  &nbsp;&nbsp;&nbsp;&nbsp; 🧩 <b>Problem Solving:</b> 150+ DSA Problems Solved<br>
-  &nbsp;&nbsp;&nbsp;&nbsp; ⚡ <b>Core Logic:</b> Python, C++, and Generative AI
-</p>
-
-<p align="center">
-  <a href="https://tanishk040803.github.io/tanishkPortfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Active-success?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/tanishk-katiyar-97ab83308/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ikatiyar332"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-</div>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Hello,+I'm+Tanishk;I+Love+Coding+and+DSA;Open+to+Opportunities)
 
 ---
 
-<h2 align="center">🛠️ The Arsenal</h2>
-
-<div align="center">
-
-| **Generative AI & LLMs** | **Core Stack** | **Tools & Platforms** |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" /><br>OpenAI API • Gemini • RAG<br>Vector DBs • Embeddings | <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,mongodb" /><br>Data Structures • Algorithms<br>Full Stack Web | <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,docker" /><br>DevOps • Automation<br>CI/CD |
-
-</div>
+## 🚀 About Me
+- 💻 I’m a Computer Science student passionate about programming, DSA, and web development.  
+- 🌱 Currently mastering **C++**, **Python**, and **Full Stack Development**.  
+- 🎯 Solved **150+ DSA problems** and building projects to improve skills.  
+- 📫 Reach me at: **ikatiyar332@gmail.com**
 
 ---
 
-<h2 align="center">📊 GitHub Metrics</h2>
+## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tanishk040803&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
-  </a>
-</div>
-<br>
-<div align="center">
-  <table style="border:none;">
-    <tr>
-      <td align="center" style="border:none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=tanishk040803&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" />
-      </td>
-      <td align="center" style="border:none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishk040803&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Languages" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://streak-stats.demolab.com?user=tanishk040803&theme=radical&hide_border=true" alt="Streak" />
-</div>
+![Tanishk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
 
 ---
 
-<h2 align="center">🌟 Featured Deployments</h2>
+## 🛠️ Skills
 
-<div align="center">
-  <a href="https://github.com/tanishk040803/AI-News-Aggregator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanishk040803&repo=AI-News-Aggregator&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/tanishk040803/SaaS-Landing-Page">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanishk040803&repo=SaaS-Landing-Page&theme=radical&hide_border=true" />
-  </a>
-</div>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-<h2 align="center">🧩 Contribution Neural Network</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishk040803&theme=react-dark&hide_border=true&area=true" />
-</div>
+## 📂 Pinned Projects
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</div>
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Project1)](https://github.com/tanishk040803/chat-with-web)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Project2)](https://github.com/tanishk040803/React-Landing-Page-responsive)
+[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Project3)](https://github.com/tanishk040803/AI-integration)
 
 ---
 
-<div align="center">
+## 🎧 Currently Listening
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/uce5zr8bsqf7o4dy94cnfqvzr)
 
-<br><br>
+---
 
-<img src="https://komarev.com/ghpvc/?username=tanishk040803&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Visitors" />
+## 📈 Activity Graph
 
-</div>
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark)](https://github.com/tanishk040803)
+
+---
+
+### ⚡ Fun GIF
+![Coding GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
