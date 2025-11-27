@@ -16,19 +16,19 @@
       <td valign="top" width="50%">
         <h3>👨‍💻 <code>user.getProfile()</code></h3>
         <br>
-        • 🔭 <b>Building:</b> AI-powered Full Stack Apps<br>
-        • 🧠 <b>Core:</b> RAG Systems & Vector Search<br>
-        • 💼 <b>Stack:</b> Python, C++, React, Node.js<br>
-        • 🎯 <b>Goal:</b> Automating the world with LLMs<br>
-        • ⚡ <b>Fun Fact:</b> I turn caffeine into code.
+        • <b>Name:</b> Tanishk Katiyar<br>
+        • <b>Role:</b> Full Stack AI Architect<br>
+        • <b>Focus:</b> RAG Systems, LLM Integration, Scalable Backends<br>
+        • <b>Skills:</b> Python, C++, React, Node.js, Gemini API, OpenAI API<br>
+        • <b>Status:</b> Actively coding and automating ⚡
         <br><br>
-        <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-        <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+        <a href="https://www.linkedin.com/in/tanishk-katiyar-97ab83308/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        <a href="mailto:ikatiyar332@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
       </td>
       <td valign="top" width="50%">
         <h3>🎧 Vibe Check</h3>
-        <a href="https://open.spotify.com/user/YOUR_SPOTIFY_UID">
-          <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=4facfe&bar_color_cover=true" width="100%" />
+        <a href="https://open.spotify.com/user/uce5zr8bsqf7o4dy94cnfqvzr">
+          <img src="https://spotify-github-profile.vercel.app/api/view?uid=2&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=4facfe&bar_color_cover=true" width="100%" />
         </a>
       </td>
     </tr>
@@ -57,13 +57,6 @@
   </div>
   <br>
   <img src="https://streak-stats.demolab.com?user=tanishk040803&theme=tokyonight&hide_border=true&background=0d1117" width="80%" />
-</div>
-
----
-
-<div align="center">
-  <h3>🐍 Contribution History</h3>
-  <img src="https://raw.githubusercontent.com/tanishk040803/tanishk040803/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
 </div>
 
 ---
