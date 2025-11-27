@@ -14,10 +14,10 @@
 
 ## 📊 GitHub Stats
 
-![Tanishk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Tanishk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishk040803&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishk040803&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanishk040803&theme=radical)
 
 ---
 
@@ -34,9 +34,9 @@
 
 ## 📂 Pinned Projects
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Project1)](https://github.com/tanishk040803/chat-with-web)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Project2)](https://github.com/tanishk040803/React-Landing-Page-responsive)
-[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Project3)](https://github.com/tanishk040803/AI-integration)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=ishan040803&repo=chat-with-web)](https://github.com/tanishk040803/chat-with-web)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=ishan040803&repo=React-Landing-Page-responsive)](https://github.com/tanishk040803/React-Landing-Page-responsive)
+[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=ishan040803&repo=AI-integration)](https://github.com/tanishk040803/AI-integration)
 
 ---
 
@@ -48,7 +48,7 @@
 
 ## 📈 Activity Graph
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark)](https://github.com/tanishk040803)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tanishk040803&theme=react-dark)](https://github.com/tanishk040803)
 
 ---
 
